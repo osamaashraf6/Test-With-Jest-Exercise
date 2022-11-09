@@ -1,0 +1,23 @@
+{
+  "name": "Test-With-Jest-Exercise",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osamaashraf6/Test-With-Jest-Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osamaashraf6/Test-With-Jest-Exercise/issues"
+  },
+  "homepage": "https://github.com/osamaashraf6/Test-With-Jest-Exercise#readme",
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
